@@ -7,3 +7,6 @@ This is an updated file on the server
 ANother update to my updated file
 
 Changes are not committed to the origin
+
+
+Success... branch name has changed from master to main
